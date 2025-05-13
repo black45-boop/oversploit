@@ -1,5 +1,1 @@
-123456
-password
-admin
-qwerty
-111111
+(REMOVE BEFORE USE: put in word list)
