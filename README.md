@@ -39,9 +39,9 @@ scapy
 LINUX
 
 git clone https://github.com/black45-boop/oversploit.git
-cd overst/oversploit
+cd oversploit/oversploit
 
-# Optional: use a virtual environment
+# Optional: create virtual environment
 python3 -m venv venv
 source venv/bin/activate
 
@@ -53,17 +53,19 @@ sudo python3 oversploit.py
 
 
 
+
 WSL (WINDOWS)
 
 
 git clone https://github.com/black45-boop/oversploit.git
-cd overst\oversploit
+cd oversploit\oversploit
 
 python -m venv venv
 venv\Scripts\activate
 
 pip install -r requirements.txt
 python oversploit.py
+
 
 ---
 
