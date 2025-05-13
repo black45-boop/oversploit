@@ -23,13 +23,18 @@
 ### Python 3.8 or later  
 Required Python libraries:
 
-```txt
 colorama
 requests
 scapy
 
-LINUX 
 
+---
+
+## 💻 Installation
+
+### 🐧 Linux / WSL
+
+```bash
 git clone https://github.com/black45-boop/overst.git
 cd overst/oversploit
 
@@ -43,8 +48,9 @@ pip install -r requirements.txt
 # Run OverSploit (some modules need root)
 sudo python3 oversploit.py
 
-```txt
-WINDOWS
+
+
+
 
 git clone https://github.com/black45-boop/overst.git
 cd overst\oversploit
@@ -54,3 +60,11 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 python oversploit.py
+
+---
+
+This makes everything readable, clean, and professional on GitHub ✅
+
+Let me know if you want this formatted with side-by-side install badges or a "Copy" button for commands.
+
+
