@@ -35,6 +35,9 @@ scapy
 ### 🐧 Linux / WSL
 
 ```bash
+
+LINUX
+
 git clone https://github.com/black45-boop/overst.git
 cd overst/oversploit
 
@@ -50,6 +53,7 @@ sudo python3 oversploit.py
 
 
 
+WSL (WINDOWS)
 
 
 git clone https://github.com/black45-boop/overst.git
