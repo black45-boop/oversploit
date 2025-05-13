@@ -28,6 +28,8 @@ colorama
 requests
 scapy
 
+LINUX 
+
 git clone https://github.com/black45-boop/overst.git
 cd overst/oversploit
 
@@ -41,6 +43,8 @@ pip install -r requirements.txt
 # Run OverSploit (some modules need root)
 sudo python3 oversploit.py
 
+```txt
+WINDOWS
 
 git clone https://github.com/black45-boop/overst.git
 cd overst\oversploit
